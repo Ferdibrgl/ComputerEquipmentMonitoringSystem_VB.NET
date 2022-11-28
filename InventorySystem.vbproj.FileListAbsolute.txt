@@ -1,0 +1,116 @@
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmUser.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.LoginForm1.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Resources.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.xml
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmBrand.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmParts.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmItem.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLocation.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmListItems.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmTranferItems.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmComSet.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmMaintenance.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmDamage.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLost.resources
+C:\Users\janobe\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmReports.resources
+D:\Jano's thesis Programs\2017\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\Jano's thesis Programs\2017\InventorySystem\InventorySystem\obj\Debug\InventorySystem.xml
+D:\Jano's thesis Programs\2017\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.xml
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbprojResolveAssemblyReference.cache
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmBrand.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmComSet.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmDamage.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmItem.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmListItems.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLocation.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLost.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmMaintenance.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmParts.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmReports.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmTranferItems.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmUser.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.LoginForm1.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Resources.resources
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\MySql.Data.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\System.Web.Services.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\FlashControlV71.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\stdole.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Win10\Desktop\InventorySystem\InventorySystem\bin\Debug\MySql.Data.xml
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\InventorySystem.exe.config
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\InventorySystem.exe
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\InventorySystem.pdb
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\InventorySystem.xml
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\MySql.Data.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\FlashControlV71.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\Google.Protobuf.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\stdole.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\bin\Debug\MySql.Data.xml
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmBrand.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmComSet.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmDamage.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmItem.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmListItems.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmLocation.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmLost.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmMaintenance.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmParts.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmReports.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmTranferItems.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.frmUser.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.LoginForm1.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.Resources.resources
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.exe
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.xml
+F:\Sem.4\VB.net Trials\ComputerEquipmentMonitoring\InventorySystem\obj\Debug\InventorySystem.pdb

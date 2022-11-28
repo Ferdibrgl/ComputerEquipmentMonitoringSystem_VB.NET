@@ -1,0 +1,30 @@
+COMPUTER EQUIPMENT MONITORING SYSTEM - VB.NET
+
+##  Username : admin
+
+##  Password : admin
+
+**Developed By Janno Palacios**
+
+START XAMPP, 
+GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "dbmonitoring" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "Database (MySQL)" FOLDER!
+
+***REQUIREMENTS***
+
+- xampp
+- mysql-connector-net-6.4.4.msi
+- mysql-connector-odbc-5.1.9-win32.msi
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+
+THANK YOU FOR DOWNLOADING :) 
